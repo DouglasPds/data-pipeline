@@ -1,0 +1,9 @@
+,category_id,category_name,description,picture
+0,1,Beverages,"Soft drinks, coffees, teas, beers, and ales",b''
+1,2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",b''
+2,3,Confections,"Desserts, candies, and sweet breads",b''
+3,4,Dairy Products,Cheeses,b''
+4,5,Grains/Cereals,"Breads, crackers, pasta, and cereal",b''
+5,6,Meat/Poultry,Prepared meats,b''
+6,7,Produce,Dried fruit and bean curd,b''
+7,8,Seafood,Seaweed and fish,b''
