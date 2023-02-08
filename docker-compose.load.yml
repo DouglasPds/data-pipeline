@@ -1,0 +1,10 @@
+services:
+  mysqldb:
+    image: mysql:8
+    restart: always
+    environment:
+      MYSQL_DATABASE: "northwind_data"
+      MYSQL_USER: "indicium_user"
+      MYSQL_PASSWORD: "indicium_pass"
+    ports:
+      - "3306:3306"
